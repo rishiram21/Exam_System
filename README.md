@@ -1,6 +1,4 @@
-# Exam-System
-
-📚 Exam System Mini Project (Java + SQL)
+#📚 Exam System Mini Project (Java + SQL)
 
 🔍 Project Overview
 
